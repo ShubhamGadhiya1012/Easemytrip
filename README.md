@@ -22,6 +22,14 @@ EaseMyTrip is a comprehensive travel booking platform designed to facilitate sea
 - **Frontend**: Blade Templating Engine, HTML, CSS, JavaScript
 - **Version Control**: Git
 
+## Languages Used
+- PHP
+- MySQL (Laravel Framework)
+- SSMS (SQL Server Management Studio)
+- Django
+- ASP.NET
+- Android Studio
+
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
 - PHP >= 7.3
